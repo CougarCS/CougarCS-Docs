@@ -27,20 +27,10 @@ Deployment to be determined
 
 ## Contributing
 
-Check out [CONTRIBUTING.md](https://github.com/CougarCS/CougarCS-Docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Check out [CONTRIBUTING.md](https://github.com/CougarCS/CougarCS-Docs/blob/main/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
 * [**Brody Pen**](https://github.com/brodypen) - *Web Master Spring 2024* - [BrodyPen.com](https://www.brodypen.com/)
 
 See also the list of [contributors](https://github.com/CougarCS/CougarCS-Docs/contributors) who participated in this project.
-
-<!-- ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
-<!-- 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc -->
