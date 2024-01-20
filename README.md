@@ -1,4 +1,4 @@
-# Project Title
+# CougarCS-Docs
 
 > CougarCS-Docs, here you'll find a treasure trove of organizational documents, career insights, and valuable university advice meticulously curated for the CougarCS community. 
 
