@@ -1,41 +1,46 @@
-# Website
+# Project Title
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+> CougarCS-Docs, here you'll find a treasure trove of organizational documents, career insights, and valuable university advice meticulously curated for the CougarCS community. 
 
-### Installation
+## Getting Started
 
-```
-$ yarn
-```
+### Prerequisites
 
-### Local Development
+- [Git](https://git-scm.com)
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+### Installing
 
 ```
-$ yarn build
+git clone git@github.com:CougarCS/CougarCS-Docs.git
+cd CougarCS-Docs
+npm start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Deployment
 
-### Deployment
+> Docs will be hosted as a subdomain at CougarCS.com
+Deployment to be determined
 
-Using SSH:
+## Built With
 
-```
-$ USE_SSH=true yarn deploy
-```
+* [Docusaurus](https://docusaurus.io/) - The open-source static site generator used.
 
-Not using SSH:
+## Contributing
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+Check out [CONTRIBUTING.md](https://github.com/CougarCS/CougarCS-Docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Authors
+
+* [**Brody Pen**](https://github.com/brodypen) - *Web Master Spring 2024* - [BrodyPen.com](https://www.brodypen.com/)
+
+See also the list of [contributors](https://github.com/CougarCS/CougarCS-Docs/contributors) who participated in this project.
+
+<!-- ## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
+<!-- 
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc -->
