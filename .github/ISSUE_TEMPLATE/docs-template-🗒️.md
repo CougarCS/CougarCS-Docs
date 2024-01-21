@@ -9,9 +9,9 @@ assignees: ''
 
 # Docs
 
-[] New doc? 
-[] typos/quick fix?
-[] Editing old docs?
+- [ ] New doc? 
+- [ ] typos/quick fix?
+- [ ] Editing old docs?
 
 ## Why/About (If new/editing doc)
-Does this blog add value to CougarCS, students career, or academic journey?
+Does this blog add value to CougarCS, students' careers, or academic journeys?
