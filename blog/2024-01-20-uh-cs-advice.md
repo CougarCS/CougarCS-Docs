@@ -9,6 +9,8 @@ Behind the facade of cutting-edge technologies, promising career prospects, and 
 
 Here are the resources I used to supplement these shortcomings.
 
+<!-- truncate -->
+
 ## Mindset and learning
 
 Before we begin learning, we must talk about mindset. The concept of mindset emerges as a central thread that can either propel us to great heights or shackle us in the chains of self-doubt. The way we perceive our abilities, approach challenges, and react to failures is deeply rooted in our mindset
