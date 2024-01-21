@@ -1,43 +1,56 @@
 ---
 slug: freshman-advice
-title: University of Houston CS Advice for Freshmen
+title: UH CS Advice for Freshmen
 authors: ashish
 tags: [advice, university, freshman]
 ---
+
+Some advice I learned in my first year in CS @ UH.
+
+<!-- truncate -->
 
 ## **General Advice:**
 
 * **Make a LinkedIn account**
     * Keep it as professional as you can, make the profile picture a formal one, and connect with or follow things you’re interested in since it's such a great way to gain insight into opportunities and connections that can help you get into these opportunities yourself.
+
 * **Make a GitHub and try to understand how Git works**
     * Git is very very useful to learn and understand, especially for future projects so learn basic actions like pull, push, merge, commit, cloning, etc.
+
 * **Make a Solid Resume**
     * Even if you're only a first-year or haven't taken data structures yet, it's always good to be prepared and set up.
     * Try using this [resume template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) [it is coded, but it's only in LaTeX so not too complex].
     * Include all the factors that make you stand out and update it with everything new that you come across.
     * One of my friends, [Fernando](https://www.linkedin.com/in/fndo/), who has experience with huge tech companies like MAANG and more has a [service where he can help you make your resume or elevate it to a higher level.](https://tech-resume-services.super.site/), so I would check that out to get some advice on how to "sell yourself" to recruiters better! 
+
 * **Try Making a Portfolio Website:**
     * I know this sounds hard, but there are available templates out there 
         * [This is what I used](https://replit.com/) I clicked “Create Repl” searched “Portfolio Website” and then made a [portfolio website](https://ashishjob.web.app/).
         * After joining the CougarCS WebDev Committee (I talk about this better later in this document), I was able to grow some experience and made a new [portfolio website](https://ashishjob.com/).
+
+
 * **Attend Events:**
     * There will be club events and sometimes it might be closed unless you’re a member, but sometimes they aren’t so feel free to go to those.
     * Last year, Google came and gave very strong advice about resumes and how to define your path to your goals.
     * Attend competitions like CodeRED [[last year’s website](https://uhcode.red/)], Cloudathon [[last year’s website](https://dot.egr.uh.edu/programs/professional/cloudathon)], Chase’s Code for Good [[last year’s website](https://careers.jpmorgan.com/us/en/students/programs/code-for-good?search=&tags=location__Americas__UnitedStatesofAmerica)], and DataCON [this one’s first time will be in Spring 2024].
     * Attend Workshops for Career Fairs and the Career Fair itself, even if you’re only a first year, they like it when you come out and sometimes they even offer you positions, and you’ll learn the tricks to do that in the workshops.
 
---- 
+
 
 ## **Education Advice:**
 
 * **Time Management:**
     * I would put some focus on Major related courses first but still keep your mind on the other classes too.
     * Use Google Calendar or something else to stay on top of your game and organized, it really helped me manage all the responsibilities I had.
+
+
 * **Outside Learning:**
     * Before my COSC 1336 class, I watched YouTube tutorial videos on Python
         * [I used this video personally](https://www.youtube.com/watch?v=kqtD5dpn9C8&pp=ygUVY29kZSB3aXRoIG1vc2ggcHl0aG9u)
-        * <span style="text-decoration:underline;">There's[ also this one that's longer](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=12336s&pp=ygUVY29kZSB3aXRoIG1vc2ggcHl0aG9u)</span>
+        * There's[ also this one that's longer](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=12336s&pp=ygUVY29kZSB3aXRoIG1vc2ggcHl0aG9u)
     * You’ll eventually get a grasp on avoiding hard coding (coding specifically to get every value that you want instead of through efficient methods), so don't worry if it takes some time, it'll come
+
+
 * **Find a Mentor:**
     * You can always speak to me through any source (email, LinkedIn, in-person), but if you don’t want to talk to me specifically, don't worry I won't be hurt
         * You can connect and talk with your TAs cause that's what I did, and I would say that I’m pretty close with all of my TAs now
@@ -69,6 +82,7 @@ tags: [advice, university, freshman]
         * [CougarCS General](https://discord.gg/cougarcs)
         * [CougarCS InfoSec](https://discord.gg/UW3ut9ub)
         * [CougarCS Tutoring](https://discord.gg/fbGcmaKK)
+        
 * **Code[Coogs]:**
     * This one is more of a social one, but they have solid events for you to gain experience and opportunities
     * They have teams set in place that work on projects over time, so its some really good stuff for your resume
