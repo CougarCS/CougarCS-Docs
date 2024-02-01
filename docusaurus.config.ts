@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: "CougarCS Docs",
   tagline: "We Compute Students Success",
-  favicon: "img/favicon.ico",
+  favicon: "img/placeHolders/webdeviconplaceholder.svg",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -59,7 +59,7 @@ const config: Config = {
       title: "CougarCS-Docs",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/placeHolders/webdeviconplaceholder.svg",
       },
       items: [
         {

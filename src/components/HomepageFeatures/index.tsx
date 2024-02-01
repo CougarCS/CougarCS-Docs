@@ -11,7 +11,8 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "InfoSec",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    
+    Svg: require("@site/static/img/placeHolders/infoseciconPlaceholder.svg").default,
     description: (
       <>
         Have you ever wanted to learn how to hack into computers or phish
@@ -22,7 +23,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Web Dev",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/placeHolders/webdeviconplaceholder.svg").default,
     description: (
       <>
         If you're passionate about web development and eager to gain hands-on
@@ -33,7 +34,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Tutoring",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("@site/static/img/placeHolders/tutoringiconplaceholder.svg").default,
     description: (
       <>
         We offer tutoring for a wide range of courses in the CS undergraduate
