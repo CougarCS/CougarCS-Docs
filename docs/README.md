@@ -21,11 +21,15 @@ CougarCS proudly operates with three branches, each branch dedicated to advancin
 ### Web Development
 ![WebDevBanner](/img/banners/webdev_banner.png)
 
+If you're passionate about web development and eager to gain hands-on experience while building new connections, this is the perfect opportunity for you. We value a foundational understanding of HTML, CSS, and JavaScript, making this a welcoming space for learners.
+
 Join the discord [here](https://discord.gg/NtgGfm4cVW)
+
+Learn more [here](./web-dev/README.md)
 
 ### Tutoring
 ![TutoringBanner](/img/banners/tutoring_banner.png)
-Our mission is to provide free peer-to-peer tutoring for all students. We offer tutoring for a wide range of courses in the CS undergraduate course catalogue, from 1000 level to 3000! Visit our scheduled tutoring hours, email [tutoring@cougarcs.com](mailto:tutoring@cougarcs.com), or just shoot your question in our Discord to get help any time of day all from the convenience of your computer!
+Our mission is to provide free peer-to-peer tutoring for all students. We offer tutoring for a wide range of courses in the CS undergraduate course catalog, from 1000 level to 3000! Visit our scheduled tutoring hours, email [tutoring@cougarcs.com](mailto:tutoring@cougarcs.com), or just shoot your question in our Discord to get help any time of day all from the convenience of your computer!
 
 Join the discord [here](https://discord.gg/Jyyy4SRBja)
 
