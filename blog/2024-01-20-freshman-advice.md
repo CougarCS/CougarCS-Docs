@@ -5,7 +5,9 @@ authors: ashish
 tags: [advice, university, freshman]
 ---
 
-Some advice I learned in my first year in CS @ UH.
+Just a guide with some valuable advice for freshmen entering the Computer Science program at the University of Houston (UH) that I learned during my own experience as a Freshman here. 
+
+Covering aspects such as professional development, education, involvement in CS clubs, and seizing various opportunities, it provides practical insights to help navigate your academic and career journey successfully.
 
 <!-- truncate -->
 
