@@ -1,0 +1,14 @@
+{
+  "position": 1,
+  "label": "CougarCS Docs",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "doc",
+    "id": "web-dev/cougarcs-docs/cougarcs-docs-intro"
+  },
+  "customProps": {
+    "description": "Learn more about CougarCS Docs and how to use it."
+  }
+}

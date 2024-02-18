@@ -31,7 +31,7 @@ const config: Config = {
         blog: {
           showReadingTime: true,
 
-          editUrl: "https://github.com/CougarCS/CougarCS-Docs",
+          editUrl: "https://github.com/CougarCS/CougarCS-Docs/blob/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
