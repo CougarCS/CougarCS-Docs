@@ -11,3 +11,9 @@ ashish:
   title: Intern @ NASA
   url: https://github.com/Ashishjob
   image_url: https://github.com/Ashishjob.png
+
+john:
+  name: John Cox
+  title: President @ CougarCS
+  url: https://github.com/johncoxdev
+  image_url: https://github.com/johncoxdev.png
