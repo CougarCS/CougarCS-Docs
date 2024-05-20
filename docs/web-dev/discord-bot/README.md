@@ -1,8 +1,7 @@
 ---
 title: Discord Bot Introduction
 id: discord-bot-intro
-slug: /discord-bot-intro
-sidebar_position: 3
+slug: intro
 ---
 
 # Discord Bot Introduction
