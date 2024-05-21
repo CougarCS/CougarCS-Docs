@@ -33,6 +33,33 @@ All Discord commands available on CougarCS Bot.
     <h4>module-name</h4>
     The module to import from. This is often a relative or absolute URL to the `.ts` file containing the module. 
     <br/>
+    <h3>Exports</h3>
+    <br/>
+    The `export` declaration is used to export values from a JavaScript module. Exported values can then be imported into other programs with the `import` declaration. 
+    
+    ```ts
+    // each new command starts with an export declaration
+
+    export const newCommand: Command = {
+        // command content
+    }
+
+    // you later import the command in "../util/_Commandlists.ts" file following the same naming conventions
+
+    import { newCommand } from "../commands/[role]-commands/new-command";
+
+    // and underneath the list of imports, you must add to the CommandList as well
+
+    export const CommandList: Command[] = [
+        .
+        .
+        .
+        newCommand
+    ];
+    
+    // this helps package all the working commands together to be imported into other programs
+    ```
+    <br/>
     
         *  [/balance](user-commands/balance)
         *  [/claim](user-commands/claim)
