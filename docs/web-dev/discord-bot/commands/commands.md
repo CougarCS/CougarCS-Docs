@@ -93,8 +93,10 @@ All Discord commands available on CougarCS Bot.
    <h3>Execution of Command</h3>
     
     ```ts
-     // defines code that will be executed once command is ran
-     run: async (interaction) => {
+      // source code: CougarCS-Bot/src/commands/admin-commands/create-contact.ts
+
+      // defines code that will be executed once command is ran
+      run: async (interaction) => {
         // tells Discord API to wait for the bot to process the command before sending a response
         await interaction.deferReply({ ephemeral: true }); // ephemeral set to true means the response will not be visible to everyone in the channel
         const { user } = interaction;
@@ -121,7 +123,8 @@ All Discord commands available on CougarCS Bot.
             shirt_size_id: interaction.options.get("shirt-size", true)?.value as
             | string
             | undefined,
-    };
+        };
+      }
     ```
     
    <br/>
