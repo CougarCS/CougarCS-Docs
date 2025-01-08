@@ -2,16 +2,17 @@
 title: Imports
 sidebar_position: 1
 ---
+These are the common imports that are necessary for implementation of each command:
 
     ```ts
-    // these are the common imports that are necessary for implementation of each command
-
     import { Command } from "../../interfaces/Command";
     import { createEmbed } from "../../utils/embeded";
     import { commandLog, sendError } from "../../utils/logs";
-   
-    // specific imports catered to each command will follow the same pattern:
+    ```
 
+Specific imports catered to each command will follow the same pattern:
+
+    ```ts
     import { export1 } from "module-name";
     import { export2, export3 } from "module-name";
     ```

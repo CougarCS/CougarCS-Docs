@@ -3,20 +3,24 @@ title: Creating a Command
 sidebar_position: 3
 ---
 
-
+    Here's an example on how to create a utility command:
 
     ```ts
-    // here's a snippet from create-profile.ts of how to set up all utility commands
+    // source code: CougarCS-Bot/src/commands/admin-commands/create-contact.ts
 
     // create a Command object
     export const createProfile: Command = {
+
         // where you create metadata for the command
-        data: new SlashCommandBuilder() 
+        data: new SlashCommandBuilder()
+
         // at a minimum, you must set the name and description
         .setName("create-profile")
         .setDescription("Create a CougarCS profile!")
+
     // you can add type string, number, user, role, channel, etc. as options
     .addNumberOption((option) =>
+
             // then set values and restrictions for each option
             option
                 .setName("psid")
